@@ -5,7 +5,7 @@
 ## Project content
 
 This project consists for the following files are:
-*entertainment.py
+* entertainment.py
 * media.py
 * fresh_tomatoes.py
 * readme.md
