@@ -1,6 +1,6 @@
 # movie_trailer
 #project movie trailer
-###by KOTHA LAKSHMI SRUTHI
+### by KOTHA LAKSHMI SRUTHI
 
 ## Project content
 
